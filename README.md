@@ -37,7 +37,9 @@ This will start the application on `localhost` at the default port.
 
 ## Usage
 
-Describe how to use the application, highlighting key functionalities such as logging in, viewing grades, reporting missing grades, and contacting instructors.
+To use this application, please click on login in the navigation bar and enter the system with your ID and password.
+You cannot access a page without an ID and a password, with this security measure, a user apart from a student cannot access the system.
+
 
 ## Contribution
 
@@ -48,4 +50,4 @@ To contribute to this project, please follow these guidelines:
 3. Commit your changes and push them to your branch.
 4. Submit a pull request for review.
 
-Please adhere to the project's coding standards and provide clear and detailed pull request descriptions.
+
